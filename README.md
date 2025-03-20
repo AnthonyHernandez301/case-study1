@@ -1,1 +1,1 @@
-# case-study1
+# exam-1
